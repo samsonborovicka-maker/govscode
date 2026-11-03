@@ -1,0 +1,12 @@
+# Složka nastavení VS Code
+.vscode/
+
+# Spustitelné soubory (kompiláty)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Hlavní binární výstup z Go (pokud se jmenuje jako složka)
+govscode
